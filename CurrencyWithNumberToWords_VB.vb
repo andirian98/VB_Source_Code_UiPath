@@ -732,13 +732,13 @@ Decimal_Singular = "Pul"
 Decimal_Plural = "Pul"
 
 
-Case "EUR"                          'Country:  Akrotiri and Dhekelia (UK)         Currency : European euro
+Case "€"                          'Country:  Akrotiri and Dhekelia (UK)         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "EUR"                          'Country:  Aland Islands (Finland)         Currency : European euro
+Case "€"                          'Country:  Aland Islands (Finland)         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -762,7 +762,7 @@ Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "EUR"                          'Country:  Andorra         Currency : European euro
+Case "€"                          'Country:  Andorra         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -816,7 +816,7 @@ Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "EUR"                          'Country:  Austria         Currency : European euro
+Case "€"                          'Country:  Austria         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -894,8 +894,8 @@ Decimal_Singular = "Centavo"
 Decimal_Plural = "Centavos"
 
 
-Case "USD"                          'Country:  Bonaire (Netherlands)         Currency : United States dollar
-Country_currency = "Dollar"   
+Case "$"                          'Country:  Bonaire (Netherlands)         Currency : United States dollar
+Country_currency = "U.S. Dollar"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
@@ -924,7 +924,7 @@ Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "USD"                          'Country:  British Virgin Islands (UK)         Currency : United States dollar
+Case "$"                          'Country:  British Virgin Islands (UK)         Currency : United States dollar
 Country_currency = "Dollar"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -978,8 +978,8 @@ Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "USD"                          'Country:  Caribbean Netherlands (Netherlands)         Currency : United States dollar
-Country_currency = "Dollar"   
+Case "$"                          'Country:  Caribbean Netherlands (Netherlands)         Currency : United States dollar
+Country_currency = "U.S. Dollar"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
@@ -1092,7 +1092,7 @@ Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "EUR"                          'Country:  Cyprus         Currency : European euro
+Case "€"                          'Country:  Cyprus         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -1140,8 +1140,8 @@ Decimal_Singular = "Piastre"
 Decimal_Plural = "Piastres"
 
 
-Case "USD"                          'Country:  El Salvador         Currency : United States dollar
-Country_currency = "Dollar"   
+Case "$"                          'Country:  El Salvador         Currency : United States dollar
+Country_currency = "U.S. Dollar"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
@@ -1158,7 +1158,7 @@ Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "EUR"                          'Country:  Estonia         Currency : European euro
+Case "€"                          'Country:  Estonia         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -1278,8 +1278,8 @@ Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "USD"                          'Country:  Guam (USA)         Currency : United States dollar
-Country_currency = "Dollar"   
+Case "$"                          'Country:  Guam (USA)         Currency : United States dollar
+Country_currency = "U.S. Dollar"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
@@ -1368,7 +1368,7 @@ Decimal_Singular = "Fils"
 Decimal_Plural = "Fils"
 
 
-Case "EUR"                          'Country:  Ireland         Currency : European euro
+Case "€"                          'Country:  Ireland         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -1386,7 +1386,7 @@ Decimal_Singular = "Agora"
 Decimal_Plural = "Agoras"
 
 
-Case "EUR"                          'Country:  Italy         Currency : European euro
+Case "€"                          'Country:  Italy         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -1530,7 +1530,7 @@ Decimal_Singular = "Tambala"
 Decimal_Plural = "Tambala"
 
 
-Case "MYR"                          'Country:  Malaysia         Currency : Malaysian ringgit
+Case "RM"                          'Country:  Malaysia         Currency : Malaysian ringgit
 Country_currency = "Ringgit"   
 Decimal_Singular = "Sen"
 Decimal_Plural = "Sen"
@@ -1554,13 +1554,13 @@ Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "USD"                          'Country:  Marshall Islands         Currency : United States dollar
-Country_currency = "Dollar"   
+Case "$"                          'Country:  Marshall Islands         Currency : United States dollar
+Country_currency = "U.S. Dollar"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "EUR"                          'Country:  Martinique (France)         Currency : European euro
+Case "€"                          'Country:  Martinique (France)         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -1578,7 +1578,7 @@ Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "EUR"                          'Country:  Mayotte (France)         Currency : European euro
+Case "€"                          'Country:  Mayotte (France)         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -1602,7 +1602,7 @@ Decimal_Singular = "Ban"
 Decimal_Plural = "Bani"
 
 
-Case "EUR"                          'Country:  Monaco         Currency : European euro
+Case "€"                          'Country:  Monaco         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -1614,7 +1614,7 @@ Decimal_Singular = "Mongo"
 Decimal_Plural = "Mongo"
 
 
-Case "EUR"                          'Country:  Montenegro         Currency : European euro
+Case "€"                          'Country:  Montenegro         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -1662,7 +1662,7 @@ Decimal_Singular = "Paise"
 Decimal_Plural = "Paise"
 
 
-Case "EUR"                          'Country:  Netherlands         Currency : European euro
+Case "€"                          'Country:  Netherlands         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -1710,8 +1710,8 @@ Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "USD"                          'Country:  Northern Mariana Islands (USA)         Currency : United States dollar
-Country_currency = "Dollar"   
+Case "$"                          'Country:  Northern Mariana Islands (USA)         Currency : United States dollar
+Country_currency = "U.S. Dollar"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
@@ -1740,8 +1740,8 @@ Decimal_Singular = "Paise"
 Decimal_Plural = "Paise"
 
 
-Case "USD"                          'Country:  Palau         Currency : United States dollar
-Country_currency = "Dollar"   
+Case "$"                          'Country:  Palau         Currency : United States dollar
+Country_currency = "U.S. Dollar"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
@@ -1752,8 +1752,8 @@ Decimal_Singular = "Agora"
 Decimal_Plural = "Agoras"
 
 
-Case "USD"                          'Country:  Panama         Currency : United States dollar
-Country_currency = "Dollar"   
+Case "$"                          'Country:  Panama         Currency : United States dollar
+Country_currency = "U.S. Dollar"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
@@ -1794,14 +1794,14 @@ Decimal_Singular = "Grosz"
 Decimal_Plural = "Grosz"
 
 
-Case "EUR"                          'Country:  Portugal         Currency : European euro
+Case "€"                          'Country:  Portugal         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
 
-Case "USD"                          'Country:  Puerto Rico (USA)         Currency : United States dollar
-Country_currency = "Dollar"   
+Case "$"                          'Country:  Puerto Rico (USA)         Currency : United States dollar
+Country_currency = "U.S. Dollar"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
@@ -1812,7 +1812,7 @@ Decimal_Singular = "Dirham"
 Decimal_Plural = "Dirhams"
 
 
-Case "EUR"                          'Country:  Reunion (France)         Currency : European euro
+Case "€"                          'Country:  Reunion (France)         Currency : European euro
 Country_currency = "Euro"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
@@ -1836,8 +1836,8 @@ Decimal_Singular = "Centime"
 Decimal_Plural = "Centime"
 
 
-Case "USD"                          'Country:  Saba (Netherlands)         Currency : United States dollar
-Country_currency = "Dollar"   
+Case "$"                          'Country:  Saba (Netherlands)         Currency : United States dollar
+Country_currency = "U.S. Dollar"   
 Decimal_Singular = "Cent"
 Decimal_Plural = "Cents"
 
